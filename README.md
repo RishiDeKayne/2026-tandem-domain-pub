@@ -1,6 +1,6 @@
 # 2026-tandem-domain-pub
 
-This repo contains the analyses to accompany XXX
+This repo contains the analyses to accompany XXX pub
 
 Input data required to run the notebook `full_HMMsplit_analyze_pipeline.ipynb` was retrieved from the TIPS database and is stored in `tips_data/`
 
