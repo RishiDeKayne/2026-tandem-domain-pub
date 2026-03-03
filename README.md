@@ -11,5 +11,6 @@ All other folders are output by the pipeline and include:
 - `blastp_output` - BLASTp search results from various representative proteins
 - `hmm_profiles` - our domain profile HMM
 - `output_files` - all output files including pairwise patristic distances, sequence divergence, and TM-scores
+- `output_plots` - all plots outputted by pipeline
 - `pdb_domains` - all split pdb domains
 - `tips_data` - input data required to run analysis (includes fasta files and .pdb files)
